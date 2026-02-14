@@ -45,11 +45,11 @@ The project emphasizes object-oriented design, Java Swing GUI development, file 
 
 ## Project Structure
 src/
-├── game/ # Core game logic and controllers
-├── frames/ # GUI frames and panels
-├── database/ # Text-based data storage
-├── exceptions/ # Custom exception classes
-├── photos/ # Player and enemy images
+├── game/ # Core game logic and controllers<br>
+├── frames/ # GUI frames and panels<br>
+├── database/ # Text-based data storage<br>
+├── exceptions/ # Custom exception classes<br>
+├── photos/ # Player and enemy images<br>
 
 
 ---
