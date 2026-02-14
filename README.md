@@ -44,7 +44,7 @@ The project emphasizes object-oriented design, Java Swing GUI development, file 
 ---
 
 ## Project Structure
-src/
+src/<br>
 ├── game/ # Core game logic and controllers<br>
 ├── frames/ # GUI frames and panels<br>
 ├── database/ # Text-based data storage<br>
