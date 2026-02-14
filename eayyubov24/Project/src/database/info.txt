@@ -1,0 +1,32 @@
+[SL] A class defines the blueprint for objects.
+[SL] An object is an instance of a class.
+[SL] Inheritance allows one class to reuse another class's code.
+[SL] Encapsulation hides internal implementation details.
+[SL] A method is a block of code that performs a task.
+[SL] A constructor initializes new objects.
+[SL] Variables store data used by a program.
+[SL] The main method is the entry point of Java applications.
+[SL] `public` means the member is accessible from any other class.
+[SL] Java is an object-oriented programming language.
+
+[TA] Polymorphism allows one interface to be used for different types.
+[TA] Overriding means redefining a superclass method in a subclass.
+[TA] Abstract classes cannot be instantiated directly.
+[TA] Interfaces define a contract that implementing classes must follow.
+[TA] The `final` keyword prevents modification of classes, methods, or variables.
+[TA] The Java Collections Framework includes List, Set, and Map.
+[TA] Exceptions are used to handle runtime errors gracefully.
+[TA] `super` refers to the immediate parent class.
+[TA] Dynamic binding occurs during runtime, allowing flexible code behavior.
+[TA] The `instanceof` operator checks object types at runtime.
+
+[PR] The Singleton pattern ensures only one instance of a class exists.
+[PR] The Observer pattern allows objects to be notified of changes.
+[PR] Garbage collection automatically reclaims unused memory.
+[PR] Dependency Injection promotes loosely coupled code.
+[PR] The Factory pattern delegates object creation to subclasses.
+[PR] Immutable objects cannot be changed after creation.
+[PR] Deep copy duplicates all objects recursively.
+[PR] Threads share memory and need synchronization to avoid conflicts.
+[PR] The JVM runs Java bytecode and manages memory.
+[PR] IoC (Inversion of Control) inverts program flow control for flexibility.

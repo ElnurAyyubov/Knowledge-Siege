@@ -1,0 +1,30 @@
+[SL] What is a class?
+[SL] What is an object in Java?
+[SL] Define inheritance.
+[SL] What is a constructor?
+[SL] What is a method?
+[SL] What is a variable?
+[SL] What is encapsulation?
+[SL] What is the purpose of the main method?
+[SL] What is the difference between int and double?
+[SL] What does public mean in Java?
+[TA] What is polymorphism in OOP?
+[TA] What is method overloading?
+[TA] How does method overriding work?
+[TA] What is an interface?
+[TA] What is the difference between abstract class and interface?
+[TA] How does exception handling work in Java?
+[TA] What are Java Collections?
+[TA] What is the purpose of the `super` keyword?
+[TA] What is dynamic binding?
+[TA] What is the use of `instanceof` in Java?
+[PR] Explain the Singleton design pattern.
+[PR] What is the difference between dependency injection and service locator?
+[PR] How does garbage collection work internally in Java?
+[PR] Describe the Observer design pattern.
+[PR] What is thread synchronization and why is it important?
+[PR] Explain the principle of Inversion of Control.
+[PR] What is the difference between shallow and deep copy in Java?
+[PR] How do you implement immutability in a class?
+[PR] What are weak references and when would you use them?
+[PR] What is the role of JVM in the Java platform?

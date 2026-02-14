@@ -1,0 +1,3 @@
+elnur,123,/photos/character1.png
+omar,om@r4k,/photos/character2.png
+maqa,prostomaqa1!,/photos/character2.png

@@ -1,0 +1,310 @@
+[2025-05-27 12:51] Game started by: elnur
+[2025-05-27 12:51] User 'elnur' collected info: 'Encapsulation hides internal implementation details.' (+10 points)
+[2025-05-27 12:51] Score changed: score: 10; health 100
+[2025-05-27 12:52] User 'elnur' hit by question: 'What is a class?' (-5 health)
+[2025-05-27 12:52] Health changed: score: 10; health 95
+[2025-05-27 13:04] User 'elnur' hit by question: 'What is a method?' (-5 health)
+[2025-05-27 13:04] Health changed: score: 10; health 90
+[2025-05-27 13:04] User 'elnur' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-27 13:04] Score changed: score: 20; health 90
+[2025-05-27 13:04] User 'elnur' collected info: 'A constructor initializes new objects.' (+10 points)
+[2025-05-27 13:04] Score changed: score: 30; health 90
+[2025-05-27 13:04] User 'elnur' collected info: 'Encapsulation hides internal implementation details.' (+10 points)
+[2025-05-27 13:04] Score changed: score: 40; health 90
+[2025-05-27 13:04] User 'elnur' collected info: 'An object is an instance of a class.' (+10 points)
+[2025-05-27 13:04] Score changed: score: 50; health 90[2025-05-28 10:17] Game started by: elnur
+[2025-05-28 10:17] User 'elnur' collected info: 'Variables store data used by a program.' (+10 points)
+[2025-05-28 10:17] Score changed: score: 10; health 100
+[2025-05-28 10:17] User 'elnur' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-28 10:17] Score changed: score: 20; health 100
+[2025-05-28 10:17] User 'elnur' collected info: 'A method is a block of code that performs a task.' (+10 points)
+[2025-05-28 10:17] Score changed: score: 30; health 100
+[2025-05-28 10:17] User 'elnur' collected info: 'Inheritance allows one class to reuse another class's code.' (+10 points)
+[2025-05-28 10:17] Score changed: score: 40; health 100
+[2025-05-28 10:17] User 'elnur' collected info: 'An object is an instance of a class.' (+10 points)
+[2025-05-28 10:17] Score changed: score: 50; health 100
+[2025-05-28 10:17] Player 'elnur' got on level 2
+[2025-05-28 10:17] User 'elnur' collected info: 'The main method is the entry point of Java applications.' (+10 points)
+[2025-05-28 10:17] Score changed: score: 60; health 100
+[2025-05-28 10:17] User 'elnur' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-28 10:17] Score changed: score: 70; health 100
+[2025-05-28 10:17] User 'elnur' hit by question: 'Define inheritance.' (-5 health)
+[2025-05-28 10:17] Health changed: score: 70; health 95
+[2025-05-28 10:17] User 'elnur' collected info: 'Interfaces define a contract that implementing classes must follow.' (+20 points)
+[2025-05-28 10:17] Score changed: score: 90; health 95
+[2025-05-28 10:17] User 'elnur' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-28 10:17] Score changed: score: 100; health 95
+[2025-05-28 10:17] Player 'elnur' got on level 3
+[2025-05-28 10:18] User 'elnur' hit by question: 'Describe the Observer design pattern.' (-20 health)
+[2025-05-28 10:18] Health changed: score: 100; health 75
+[2025-05-28 10:18] User 'elnur' hit by question: 'Explain the principle of Inversion of Control.' (-20 health)
+[2025-05-28 10:18] Health changed: score: 100; health 55
+[2025-05-28 10:18] User 'elnur' hit by question: 'What is thread synchronization and why is it important?' (-20 health)
+[2025-05-28 10:18] Health changed: score: 100; health 35
+[2025-05-28 10:18] User 'elnur' hit by question: 'How do you implement immutability in a class?' (-20 health)
+[2025-05-28 10:18] Health changed: score: 100; health 15
+[2025-05-28 10:18] User 'elnur' collected info: 'Dynamic binding occurs during runtime, allowing flexible code behavior.' (+20 points)
+[2025-05-28 10:18] Score changed: score: 120; health 15
+[2025-05-28 10:18] User 'elnur' collected info: 'Polymorphism allows one interface to be used for different types.' (+20 points)
+[2025-05-28 10:18] Score changed: score: 140; health 15
+[2025-05-28 10:18] User 'elnur' collected info: 'The Java Collections Framework includes List, Set, and Map.' (+20 points)
+[2025-05-28 10:18] Score changed: score: 160; health 15
+[2025-05-28 10:18] Game won! Score: 160
+[2025-05-28 12:40] Game started by: elnur
+[2025-05-28 12:40] User 'elnur' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-28 12:40] Score changed: score: 10; health 100
+[2025-05-28 12:40] User 'elnur' collected info: 'An object is an instance of a class.' (+10 points)
+[2025-05-28 12:40] Score changed: score: 20; health 100
+[2025-05-28 12:40] User 'elnur' collected info: 'A method is a block of code that performs a task.' (+10 points)
+[2025-05-28 12:40] Score changed: score: 30; health 100
+[2025-05-28 12:40] User 'elnur' collected info: 'Encapsulation hides internal implementation details.' (+10 points)
+[2025-05-28 12:40] Score changed: score: 40; health 100
+[2025-05-28 12:40] User 'elnur' collected info: 'Inheritance allows one class to reuse another class's code.' (+10 points)
+[2025-05-28 12:40] Score changed: score: 50; health 100
+[2025-05-28 12:40] Player 'elnur' got on level 2
+[2025-05-28 12:40] User 'elnur' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-28 12:40] Score changed: score: 60; health 100
+[2025-05-28 12:40] User 'elnur' collected info: 'The `final` keyword prevents modification of classes, methods, or variables.' (+20 points)
+[2025-05-28 12:40] Score changed: score: 80; health 100
+[2025-05-28 12:40] User 'elnur' hit by question: 'How does exception handling work in Java?' (-10 health)
+[2025-05-28 12:40] Health changed: score: 80; health 90
+[2025-05-28 12:40] User 'elnur' collected info: 'Polymorphism allows one interface to be used for different types.' (+20 points)
+[2025-05-28 12:40] Score changed: score: 100; health 90
+[2025-05-28 12:40] Player 'elnur' got on level 3
+[2025-05-28 12:40] User 'elnur' hit by question: 'What are weak references and when would you use them?' (-20 health)
+[2025-05-28 12:40] Health changed: score: 100; health 70
+[2025-05-28 12:41] User 'elnur' hit by question: 'What is polymorphism in OOP?' (-10 health)
+[2025-05-28 12:41] Health changed: score: 100; health 60
+[2025-05-28 12:41] User 'elnur' collected info: 'The Factory pattern delegates object creation to subclasses.' (+30 points)
+[2025-05-28 12:41] Score changed: score: 130; health 60
+[2025-05-28 12:41] User 'elnur' hit by question: 'How do you implement immutability in a class?' (-20 health)
+[2025-05-28 12:41] Health changed: score: 130; health 40
+[2025-05-28 12:41] User 'elnur' collected info: 'The Observer pattern allows objects to be notified of changes.' (+30 points)
+[2025-05-28 12:41] Score changed: score: 160; health 40
+[2025-05-28 12:41] Game won! Score: 160
+[2025-05-28 12:41] Game started by: elnur
+[2025-05-28 12:41] User 'elnur' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-28 12:41] Score changed: score: 10; health 100
+[2025-05-28 12:41] User 'elnur' hit by question: 'Define inheritance.' (-5 health)
+[2025-05-28 12:41] Health changed: score: 10; health 95
+[2025-05-28 12:41] User 'elnur' collected info: 'Encapsulation hides internal implementation details.' (+10 points)
+[2025-05-28 12:41] Score changed: score: 20; health 95
+[2025-05-28 12:41] User 'elnur' collected info: 'Variables store data used by a program.' (+10 points)
+[2025-05-28 12:41] Score changed: score: 30; health 95
+[2025-05-28 12:41] User 'elnur' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-28 12:41] Score changed: score: 40; health 95
+[2025-05-28 12:41] User 'elnur' hit by question: 'What is a method?' (-5 health)
+[2025-05-28 12:41] Health changed: score: 40; health 90
+[2025-05-28 12:41] User 'elnur' hit by question: 'What is a constructor?' (-5 health)
+[2025-05-28 12:41] Health changed: score: 40; health 85
+[2025-05-28 12:41] User 'elnur' hit by question: 'What is a method?' (-5 health)
+[2025-05-28 12:41] Health changed: score: 40; health 80
+[2025-05-28 12:42] User 'elnur' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-28 12:42] Score changed: score: 50; health 80
+[2025-05-28 12:42] Player 'elnur' got on level 2
+[2025-05-28 12:42] User 'elnur' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-28 12:42] Score changed: score: 60; health 80
+[2025-05-28 12:42] User 'elnur' collected info: 'A method is a block of code that performs a task.' (+10 points)
+[2025-05-28 12:42] Score changed: score: 70; health 80
+[2025-05-28 12:42] User 'elnur' hit by question: 'How does method overriding work?' (-10 health)
+[2025-05-28 12:42] Health changed: score: 70; health 70
+[2025-05-28 12:42] User 'elnur' collected info: 'Encapsulation hides internal implementation details.' (+10 points)
+[2025-05-28 12:42] Score changed: score: 80; health 70
+[2025-05-28 12:42] User 'elnur' hit by question: 'What are Java Collections?' (-10 health)
+[2025-05-28 12:42] Health changed: score: 80; health 60
+[2025-05-28 12:42] User 'elnur' hit by question: 'What is an object in Java?' (-5 health)
+[2025-05-28 12:42] Health changed: score: 80; health 55
+[2025-05-28 12:42] User 'elnur' collected info: 'A constructor initializes new objects.' (+10 points)
+[2025-05-28 12:42] Score changed: score: 90; health 55
+[2025-05-28 12:42] User 'elnur' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-28 12:42] Score changed: score: 100; health 55
+[2025-05-28 12:42] Player 'elnur' got on level 3
+[2025-05-28 12:42] User 'elnur' collected info: 'The Java Collections Framework includes List, Set, and Map.' (+20 points)
+[2025-05-28 12:42] Score changed: score: 120; health 55
+[2025-05-28 12:42] User 'elnur' hit by question: 'Describe the Observer design pattern.' (-20 health)
+[2025-05-28 12:42] Health changed: score: 120; health 35
+[2025-05-28 12:42] User 'elnur' hit by question: 'What is an interface?' (-10 health)
+[2025-05-28 12:42] Health changed: score: 120; health 25
+[2025-05-28 12:42] User 'elnur' hit by question: 'What are weak references and when would you use them?' (-20 health)
+[2025-05-28 12:42] Health changed: score: 120; health 5
+[2025-05-28 12:42] User 'elnur' collected info: 'Dependency Injection promotes loosely coupled code.' (+30 points)
+[2025-05-28 12:42] Score changed: score: 150; health 5
+[2025-05-28 12:42] Game won! Score: 150
+[2025-05-28 13:48] User qwe is registered
+[2025-05-28 13:49] Game started by: elnur
+[2025-05-28 14:43] User elnur is registered
+[2025-05-28 14:43] Game started by: elnur
+[2025-05-28 14:48] Game started by: elnur
+[2025-05-28 14:48] User 'elnur' collected info: 'ERROR opening file' (+10 points)
+[2025-05-28 14:48] Score changed: score: 10; health 100
+[2025-05-28 14:48] User 'elnur' collected info: 'ERROR opening file' (+10 points)
+[2025-05-28 14:48] Score changed: score: 20; health 100
+[2025-05-28 14:48] User 'elnur' collected info: 'ERROR opening file' (+10 points)
+[2025-05-28 14:48] Score changed: score: 30; health 100
+[2025-05-28 14:48] User 'elnur' collected info: 'ERROR opening file' (+10 points)
+[2025-05-28 14:48] Score changed: score: 40; health 100
+[2025-05-28 14:48] User 'elnur' hit by question: 'What is a class?' (-5 health)
+[2025-05-28 14:48] Health changed: score: 40; health 95
+[2025-05-28 16:07] Game started by: elnur
+[2025-05-28 16:07] User 'elnur' collected info: '<ERROR opening file>' (+10 points)
+[2025-05-28 16:07] Score changed: score: 10; health 100
+[2025-05-28 16:07] User 'elnur' collected info: '<ERROR opening file>' (+10 points)
+[2025-05-28 16:07] Score changed: score: 20; health 100
+[2025-05-28 16:07] User 'elnur' hit by question: '<ERROR opening file>' (-5 health)
+[2025-05-28 16:07] Health changed: score: 20; health 95
+[2025-05-28 16:07] User 'elnur' collected info: '<ERROR opening file>' (+10 points)
+[2025-05-28 16:07] Score changed: score: 30; health 95
+[2025-05-28 16:38] Game started by: elnur
+[2025-05-28 16:39] User 'elnur' collected info: '<ERROR opening file>' (+10 points)
+[2025-05-28 16:39] Score changed: score: 10; health 100
+[2025-05-28 16:39] User 'elnur' collected info: '<ERROR opening file>' (+10 points)
+[2025-05-28 16:39] Score changed: score: 20; health 100
+[2025-05-28 16:47] User bob is registered
+[2025-05-29 01:28] Game started by: omar
+[2025-05-29 01:28] User 'omar' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-29 01:28] Score changed: score: 10; health 100
+[2025-05-29 01:29] User 'omar' collected info: 'Encapsulation hides internal implementation details.' (+10 points)
+[2025-05-29 01:29] Score changed: score: 20; health 100
+[2025-05-29 01:29] User 'omar' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-29 01:29] Score changed: score: 30; health 100
+[2025-05-29 01:29] User 'omar' collected info: 'The main method is the entry point of Java applications.' (+10 points)
+[2025-05-29 01:29] Score changed: score: 40; health 100
+[2025-05-29 01:29] User 'omar' collected info: 'An object is an instance of a class.' (+10 points)
+[2025-05-29 01:29] Score changed: score: 50; health 100
+[2025-05-29 01:29] Player 'omar' got on level 2
+[2025-05-29 01:29] User 'omar' collected info: 'The main method is the entry point of Java applications.' (+10 points)
+[2025-05-29 01:29] Score changed: score: 60; health 100
+[2025-05-29 01:29] User 'omar' collected info: 'Inheritance allows one class to reuse another class's code.' (+10 points)
+[2025-05-29 01:29] Score changed: score: 70; health 100
+[2025-05-29 01:29] User 'omar' collected info: 'A method is a block of code that performs a task.' (+10 points)
+[2025-05-29 01:29] Score changed: score: 80; health 100
+[2025-05-29 01:29] User 'omar' collected info: 'Encapsulation hides internal implementation details.' (+10 points)
+[2025-05-29 01:29] Score changed: score: 90; health 100
+[2025-05-29 01:29] User 'omar' collected info: 'Variables store data used by a program.' (+10 points)
+[2025-05-29 01:29] Score changed: score: 100; health 100
+[2025-05-29 01:29] Player 'omar' got on level 3
+[2025-05-29 01:29] User 'omar' collected info: '`super` refers to the immediate parent class.' (+20 points)
+[2025-05-29 01:29] Score changed: score: 120; health 100
+[2025-05-29 01:29] User 'omar' collected info: 'The `final` keyword prevents modification of classes, methods, or variables.' (+20 points)
+[2025-05-29 01:29] Score changed: score: 140; health 100
+[2025-05-29 01:29] User 'omar' hit by question: 'What is method overloading?' (-10 health)
+[2025-05-29 01:29] Health changed: score: 140; health 90
+[2025-05-29 01:29] User 'omar' hit by question: 'What is thread synchronization and why is it important?' (-20 health)
+[2025-05-29 01:29] Health changed: score: 140; health 70
+[2025-05-29 01:29] User 'omar' hit by question: 'What is thread synchronization and why is it important?' (-20 health)
+[2025-05-29 01:29] Health changed: score: 140; health 50
+[2025-05-29 01:29] User 'omar' hit by question: 'What is an interface?' (-10 health)
+[2025-05-29 01:29] Health changed: score: 140; health 40
+[2025-05-29 01:29] User 'omar' hit by question: 'What is method overloading?' (-10 health)
+[2025-05-29 01:29] Health changed: score: 140; health 30
+[2025-05-29 01:29] User 'omar' collected info: 'Exceptions are used to handle runtime errors gracefully.' (+20 points)
+[2025-05-29 01:29] Score changed: score: 160; health 30
+[2025-05-29 01:29] Game won! Score: 160
+[2025-05-29 01:31] Game started by: maqa
+[2025-05-29 01:31] User 'maqa' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-29 01:31] Score changed: score: 10; health 100
+[2025-05-29 01:31] User 'maqa' collected info: 'An object is an instance of a class.' (+10 points)
+[2025-05-29 01:31] Score changed: score: 20; health 100
+[2025-05-29 01:31] User 'maqa' collected info: 'Inheritance allows one class to reuse another class's code.' (+10 points)
+[2025-05-29 01:31] Score changed: score: 30; health 100
+[2025-05-29 01:31] User 'maqa' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-29 01:31] Score changed: score: 40; health 100
+[2025-05-29 01:31] User 'maqa' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-29 01:31] Score changed: score: 50; health 100
+[2025-05-29 01:31] Player 'maqa' got on level 2
+[2025-05-29 01:31] User 'maqa' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-29 01:31] Score changed: score: 60; health 100
+[2025-05-29 01:31] User 'maqa' collected info: 'The Java Collections Framework includes List, Set, and Map.' (+20 points)
+[2025-05-29 01:31] Score changed: score: 80; health 100
+[2025-05-29 01:31] User 'maqa' collected info: 'Exceptions are used to handle runtime errors gracefully.' (+20 points)
+[2025-05-29 01:31] Score changed: score: 100; health 100
+[2025-05-29 01:31] Player 'maqa' got on level 3
+[2025-05-29 01:31] User 'maqa' hit by question: 'How do you implement immutability in a class?' (-20 health)
+[2025-05-29 01:31] Health changed: score: 100; health 80
+[2025-05-29 01:31] User 'maqa' collected info: 'Garbage collection automatically reclaims unused memory.' (+30 points)
+[2025-05-29 01:31] Score changed: score: 130; health 80
+[2025-05-29 01:31] User 'maqa' collected info: 'Deep copy duplicates all objects recursively.' (+30 points)
+[2025-05-29 01:31] Score changed: score: 160; health 80
+[2025-05-29 01:31] Game won! Score: 160
+[2025-05-29 01:32] Game started by: elnur
+[2025-05-29 01:32] User 'elnur' collected info: 'A method is a block of code that performs a task.' (+10 points)
+[2025-05-29 01:32] Score changed: score: 10; health 100
+[2025-05-29 01:32] User 'elnur' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-29 01:32] Score changed: score: 20; health 100
+[2025-05-29 01:32] User 'elnur' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-29 01:32] Score changed: score: 30; health 100
+[2025-05-29 01:32] User 'elnur' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-29 01:32] Score changed: score: 40; health 100
+[2025-05-29 01:32] User 'elnur' collected info: 'A constructor initializes new objects.' (+10 points)
+[2025-05-29 01:32] Score changed: score: 50; health 100
+[2025-05-29 01:32] Player 'elnur' got on level 2
+[2025-05-29 01:32] User 'elnur' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-29 01:32] Score changed: score: 60; health 100
+[2025-05-29 01:32] User 'elnur' collected info: 'Variables store data used by a program.' (+10 points)
+[2025-05-29 01:32] Score changed: score: 70; health 100
+[2025-05-29 01:32] User 'elnur' collected info: 'The main method is the entry point of Java applications.' (+10 points)
+[2025-05-29 01:32] Score changed: score: 80; health 100
+[2025-05-29 01:32] User 'elnur' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-29 01:32] Score changed: score: 90; health 100
+[2025-05-29 01:32] User 'elnur' collected info: 'Encapsulation hides internal implementation details.' (+10 points)
+[2025-05-29 01:32] Score changed: score: 100; health 100
+[2025-05-29 01:32] Player 'elnur' got on level 3
+[2025-05-29 01:32] User 'elnur' hit by question: 'Describe the Observer design pattern.' (-20 health)
+[2025-05-29 01:32] Health changed: score: 100; health 80
+[2025-05-29 01:32] User 'elnur' hit by question: 'How does method overriding work?' (-10 health)
+[2025-05-29 01:32] Health changed: score: 100; health 70
+[2025-05-29 01:32] User 'elnur' collected info: 'Overriding means redefining a superclass method in a subclass.' (+20 points)
+[2025-05-29 01:32] Score changed: score: 120; health 70
+[2025-05-29 01:32] User 'elnur' hit by question: 'How does exception handling work in Java?' (-10 health)
+[2025-05-29 01:32] Health changed: score: 120; health 60
+[2025-05-29 01:32] User 'elnur' hit by question: 'How does exception handling work in Java?' (-10 health)
+[2025-05-29 01:32] Health changed: score: 120; health 50
+[2025-05-29 01:32] User 'elnur' hit by question: 'What is an interface?' (-10 health)
+[2025-05-29 01:32] Health changed: score: 120; health 40
+[2025-05-29 01:32] User 'elnur' hit by question: 'What are Java Collections?' (-10 health)
+[2025-05-29 01:32] Health changed: score: 120; health 30
+[2025-05-29 01:32] User 'elnur' hit by question: 'What is the difference between shallow and deep copy in Java?' (-20 health)
+[2025-05-29 01:32] Health changed: score: 120; health 10
+[2025-05-29 01:32] User 'elnur' hit by question: 'Describe the Observer design pattern.' (-20 health)
+[2025-05-29 01:32] Health changed: score: 120; health -10
+[2025-05-29 01:36] Game started by: elnur
+[2025-05-29 01:36] User 'elnur' collected info: 'A constructor initializes new objects.' (+10 points)
+[2025-05-29 01:36] Score changed: score: 10; health 100
+[2025-05-29 01:36] User 'elnur' collected info: 'A constructor initializes new objects.' (+10 points)
+[2025-05-29 01:36] Score changed: score: 20; health 100
+[2025-05-29 01:36] User 'elnur' collected info: 'An object is an instance of a class.' (+10 points)
+[2025-05-29 01:36] Score changed: score: 30; health 100
+[2025-05-29 01:36] User 'elnur' collected info: 'A class defines the blueprint for objects.' (+10 points)
+[2025-05-29 01:36] Score changed: score: 40; health 100
+[2025-05-29 01:36] User 'elnur' collected info: 'A method is a block of code that performs a task.' (+10 points)
+[2025-05-29 01:36] Score changed: score: 50; health 100
+[2025-05-29 01:36] Player 'elnur' got on level 2
+[2025-05-29 01:36] User 'elnur' collected info: 'A method is a block of code that performs a task.' (+10 points)
+[2025-05-29 01:36] Score changed: score: 60; health 100
+[2025-05-29 01:36] User 'elnur' hit by question: 'What is a class?' (-5 health)
+[2025-05-29 01:36] Health changed: score: 60; health 95
+[2025-05-29 01:36] User 'elnur' collected info: '`public` means the member is accessible from any other class.' (+10 points)
+[2025-05-29 01:36] Score changed: score: 70; health 95
+[2025-05-29 01:36] User 'elnur' collected info: 'A method is a block of code that performs a task.' (+10 points)
+[2025-05-29 01:36] Score changed: score: 80; health 95
+[2025-05-29 01:36] User 'elnur' collected info: 'Dynamic binding occurs during runtime, allowing flexible code behavior.' (+20 points)
+[2025-05-29 01:36] Score changed: score: 100; health 95
+[2025-05-29 01:36] Player 'elnur' got on level 3
+[2025-05-29 01:36] User 'elnur' hit by question: 'What is the purpose of the `super` keyword?' (-10 health)
+[2025-05-29 01:36] Health changed: score: 100; health 85
+[2025-05-29 01:36] User 'elnur' collected info: 'Overriding means redefining a superclass method in a subclass.' (+20 points)
+[2025-05-29 01:36] Score changed: score: 120; health 85
+[2025-05-29 01:36] User 'elnur' hit by question: 'What are Java Collections?' (-10 health)
+[2025-05-29 01:36] Health changed: score: 120; health 75
+[2025-05-29 01:36] User 'elnur' hit by question: 'What are weak references and when would you use them?' (-20 health)
+[2025-05-29 01:36] Health changed: score: 120; health 55
+[2025-05-29 01:36] User 'elnur' collected info: 'The Java Collections Framework includes List, Set, and Map.' (+20 points)
+[2025-05-29 01:36] Score changed: score: 140; health 55
+[2025-05-29 01:36] User 'elnur' hit by question: 'How do you implement immutability in a class?' (-20 health)
+[2025-05-29 01:36] Health changed: score: 140; health 35
+[2025-05-29 01:36] User 'elnur' hit by question: 'What is the purpose of the `super` keyword?' (-10 health)
+[2025-05-29 01:36] Health changed: score: 140; health 25
+[2025-05-29 01:41] Game over: Health depleted. Final score: 120
+[2025-05-29 01:41] User mehriban is registered
+[2025-05-29 01:41] User afasd is registered
+[2025-05-29 01:42] User wqerl is registered
